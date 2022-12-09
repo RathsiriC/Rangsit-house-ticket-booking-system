@@ -12,3 +12,7 @@ the diagrams. In addition, we constructed the user interface appearances through
 CSS, PHP and JavaScript for coding the front end. Thus, the online booking ticket system is one of the
 alternative choices for those who cannot afford enough time to get their tickets before watching a movie.
 People can book tickets online at any time of day or night.
+
+- Create the cinema booking system for small business, resulting in market competition that is fair.
+- User interface of the website are user-friendly and easy-to-understand, developed in HTML, CSS, PHP, and Javascript.
+- Database has been built in MySQL server.
